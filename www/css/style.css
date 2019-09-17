@@ -1,6 +1,15 @@
 /**/
-img{
+{
   margin-left: 18px;
   height: 90%;
   width: 90%;
+}
+body{
+  background-repeat: no-repeat;
+  background-image: url(../imagens/fundo.jpg);
+  background-size: cover;
+}
+img{
+ margin-left:29%;
+ margin-top:20%;
 }

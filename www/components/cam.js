@@ -1,3 +1,4 @@
+ //função para câmera
   document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
     console.log(navigator.camera);
